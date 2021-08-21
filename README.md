@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nassim Redwan, aka Nassim99</h1>
-<h3 align="center">A passionat React Native Developer</h3>
+<h3 align="center">React Native Developer</h3>
 
 - 🔭 I’m currently working on **Private Project**
 
