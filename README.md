@@ -5,8 +5,6 @@
 
 - 🌱 I’m currently learning **goLang**
 
-- 👨‍💻 80% of my projects are private for company.
-
 - 💬 Ask me about **react, react native, javascript**
 
 - 📫 How to reach me **redoin10@gmail.com**
